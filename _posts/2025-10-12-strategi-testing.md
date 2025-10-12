@@ -1,7 +1,7 @@
 ---
 title: "Strategi Testing"
 date: 2025-10-12 10:00:00 +0800
-categories: [Portofolio, Testing]
+categories: [Software Testing and Quality Assurance]
 tags: [software testing, strategi testing]
 pin: false
 image:
@@ -17,7 +17,7 @@ Testing menjadi bagian penting dari **Software Development Life Cycle (SDLC)** u
 
 **Detail Portofolio:**
 - **Judul:** Strategi Testing  
-- **Topik:** Software Testing & SDLC  
+- **Topik:** Software Testing
 
 ---
 
@@ -26,4 +26,4 @@ Testing menjadi bagian penting dari **Software Development Life Cycle (SDLC)** u
 
 ---
 
-> *Portofolio ini dibuat sebagai bagian dari pembelajaran konsep Software Testing pada mata kuliah Sistem Informasi.*
+> *Materi ini dibuat sebagai bagian dari pembelajaran konsep Software Testing pada mata kuliah Sistem Informasi Universitas Hasanuddin.*
