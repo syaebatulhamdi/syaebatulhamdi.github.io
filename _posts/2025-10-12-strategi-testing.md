@@ -1,6 +1,6 @@
 ---
 title: "Strategi Testing"
-date: 2025-10-12 10:00:00 +0800
+date: 2025-8-25 10:00:00 +0800
 categories: [Software Testing and Quality Assurance]
 tags: [software testing, strategi testing]
 pin: false
